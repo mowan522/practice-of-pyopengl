@@ -1,0 +1,10 @@
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+glfw==2.5.5
+numpy==1.23.4
+Pillow==9.2.0
+PyOpenGL @ file:///C:/Users/shiyu/Downloads/PyOpenGL-3.1.6-cp39-cp39-win_amd64.whl
+PyOpenGL-accelerate @ file:///C:/Users/shiyu/Downloads/PyOpenGL_accelerate-3.1.6-cp39-cp39-win_amd64.whl
+PyQt5==5.15.7
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.11.0
+wincertstore==0.2
